@@ -1,30 +1,26 @@
 
 # Lookin
 
-Machine Learning - Face Shape Classification
-## Dataset
+## Machine Learning - Face Shape and Gender Classification
 
-Our [dataset](https://drive.google.com/file/d/1DQx9V8LtRgvlrvR0x28TlvyjaoVwgCvW/view?usp=drive_link) has 3 classes for face shapes.
-- Oval
-- Round
-- Square
+### Dataset
 
+We use two datasets for each model. The classes are as follows:
 
-## Installation
+- **Face Shapes:**
+  - Oval
+  - Round
+  - Square
 
+- **Gender:**
+  - Male
+  - Female
 
-Clone project
-```bash
-  git clone https://github.com/CP-Lookin/Machine-Learning.git
-```
-Go to project directory
-```bash
-  cd ml
-```
+### Usage
 
+To train and evaluate the models, follow the instructions provided in the Jupyter notebooks included in this repository.
 
-We run this notebook on kaggle, so we dont put any libraries we use.
-## Authors
+### Authors
 
-- [@lookin](https://github.com/CP-Lookin/)
+- [Lookin Team](https://github.com/CP-Lookin/)
 
