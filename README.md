@@ -7,12 +7,12 @@
 
 We use two datasets for each model. The classes are as follows:
 
-- **Face Shapes:**
+- **[Face Shapes](https://www.kaggle.com/datasets/attanmhd/face-shape-3classes/data):**
   - Oval
   - Round
   - Square
 
-- **Gender:**
+- **[Gender](https://www.kaggle.com/datasets/yasserhessein/gender-dataset):**
   - Male
   - Female
 
